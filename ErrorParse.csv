@@ -1,0 +1,66 @@
+Index,Error Message ,Parsed name 
+1,';' expected,semicolon expected
+2,cannot find symbol -   variable,unknown variable
+3,']' expected,missing bracket
+4,illegal start of expression,illegal start of expression
+5,cannot find symbol -   class,unknown class
+6,cannot find symbol -   method,unknown method
+7,incompatible types,incompatible types
+8, enum,"class, interface, enum, or record expected"
+9,'.class' expected,.class expected
+10,not a statement,not a statement
+11,missing return statement,missing return statement
+12,private access,private access violation
+13,illegal start of type,illegal start of type
+14,might not have been initialized,possible uninitialized object
+15,invalid method declaration; return type required,missing return type
+16,already defined,previously defined variable
+17,unexpected type,unexpected type
+18,unreachable statement,unreachable statement
+19,'else' without 'if',else without if
+20,does not exist,package does not exist
+21,"missing method body, or declare abstract",missing body or abstract
+22,unclosed comment,unclosed comment
+23,unclosed string literal,unclosed string
+24,non-static variable,incorrect static variable reference
+25,reached end of file while parsing,reached end of file while parsing
+26,dereferenced,dereferencing error
+27,possible loss of precision,loss of type precision
+28,unclosed character literal,character literal error
+29,converted to,type conversion error
+30,access privileges; was protected,protected access violation
+31,bad operand types,operation type mismatch
+32,cannot access file,file path error
+33,should be declared in a file,class public not in file
+34,illegal character,illegal character
+35,'(' expected,missing parentheses
+36,')' expected,missing parentheses
+37,'[' expected,missing bracket
+38,'.' expected,missing period
+39,'(' or '[' expected,missing bracket
+40,"array required, but int found",unexpected type
+41,illegal line end in character literal,character literal error
+42,for-each not applicable to expression type,non-iterable type
+43,non-static method,incorrect static method reference
+44,cannot be applied to given types,method declaration type mismatch
+45,<identifier> expected,misplaced method within class
+46,cannot find symbol - class,unknown class
+47,'{' expected,missing curly brace
+48,'}' expected,missing curly brace
+49,illegal start of statement,illegal start of statement
+50,while expected,incorrect while statement syntax
+51,incomparable types,incomparable types
+52,modifier private not allowed here,incorrect private modifier
+53,must be caught or declared to be thrown,exception error
+54,cannot find symbol - method,unknown method
+55,integer number too large,integer too large
+56,':' expected,colon expected
+57,unreported exception,exception error
+58,cannot return a value from method whose result type is void,none-returning error
+59,illegal '.',illegal period
+60,is not abstract and does not override,abstract class error
+61,-> expected,missing arrow operator
+62,class expected,class expected
+63,cannot find symbol - variable,unknown variable
+64,cyclic inheritance,cyclical inheritance error
+65,array dimension missing,missing array size
